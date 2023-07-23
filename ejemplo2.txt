@@ -8,8 +8,6 @@ andrea
 
 pedro
 
-<<<<<<< HEAD
 maria
-=======
+
 luisa
->>>>>>> ramaB
